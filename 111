@@ -1,0 +1,33 @@
+统计信息:
+总共检查的包数量: 5
+共享包目录匹配数： 需下载数： 实际下载数：
+.venv环境匹配数： 需安装数： 实际安装数：
+是否打印详细信息？输入Y打印，其他键结束流程:
+
+共享包目录匹配结论:
+包 'flask' 匹配结果: 存在
+包 'flask-sqlalchemy' 匹配结果: 存在
+包 'flask-bcrypt' 匹配结果: 存在
+包 'flask-login' 匹配结果: 存在
+包 'transformers' 匹配结果: 存在
+
+下载结论:
+包 'flask' 下载结果: 无需下载
+包 'flask-sqlalchemy' 下载结果: 无需下载
+包 'flask-bcrypt' 下载结果: 无需下载
+包 'flask-login' 下载结果: 无需下载
+包 'transformers' 下载结果: 无需下载
+
+.venv环境匹配结论:
+包 'flask' 匹配结果: 存在
+包 'flask-sqlalchemy' 匹配结果: 存在
+包 'flask-bcrypt' 匹配结果: 存在
+包 'flask-login' 匹配结果: 存在
+包 'transformers' 匹配结果: 存在
+
+安装结论:
+包 'flask' 安装结果: 无需安装
+包 'flask-sqlalchemy' 安装结果: 无需安装
+包 'flask-bcrypt' 安装结果: 无需安装
+包 'flask-login' 安装结果: 无需安装
+包 'transformers' 安装结果: 无需安装
